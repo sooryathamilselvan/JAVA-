@@ -27,3 +27,6 @@ public class LargestSmallestArray {
         System.out.println("Smallest element: " + smallest);
     }
 }
+// sample input:
+// 3
+// 20 25 30 
